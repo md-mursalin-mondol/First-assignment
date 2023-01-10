@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+nav {
+    display: flex;
+    padding: 50px;
+}
+.mu{
+    position: absolute;
+        width: 288px;
+        height: px;
+        left: 750px;
+        top: 300px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+}
+
+
+
+.rs {
+        position: absolute;
+        width: 416px;
+        height: 104px;
+        left: 750px;
+        top: 430px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: left;
+    }
+
+    .al {
+        position: absolute;
+        width: 349px;
+        height: 200px;
+        left: 709px;
+        top: 550px;
+        font-size: 16px;
+        list-style: none;
+
+    }
+    style{
+        list-style: <i class="fa-solid fa-check"></i>;
+    }
+.green{
+    color: green;
+}
+.salin{
+ background-size: ;
+}
